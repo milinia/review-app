@@ -1,0 +1,260 @@
+{
+    "count": 127,
+    "items": [
+        {
+            "first_name": "Иван",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 5,
+            "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
+            "created": "1 час назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Екатерина",
+            "last_name": "Иванова",
+            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "rating": 3,
+            "text": "Скользские ужасно.",
+            "created": "12 минут назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Евгения",
+            "last_name": "Петрова",
+            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "rating": 4,
+            "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
+            "created": "35 минут назад",
+            "photo_urls": []
+        },
+        {
+            "first_name": "Илья",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 2,
+            "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
+            "created": "минуту назад",
+            "photo_urls": []
+        },
+        {
+            "first_name": "Никита",
+            "last_name": "Иванов",
+            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "rating": 5,
+            "text": "Отлично выглядят, хоть и скользковатые...",
+            "created": "только что",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Олег",
+            "last_name": "Николаев",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 1,
+            "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
+            "created": "15 минут назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Николай",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "rating": 2,
+            "text": "",
+            "created": "вчера в 12:39",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+
+
+        {
+            "first_name": "Иван",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 5,
+            "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
+            "created": "1 час назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Екатерина",
+            "last_name": "Иванова",
+            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "rating": 3,
+            "text": "Скользские ужасно.",
+            "created": "12 минут назад",
+            "photo_urls": []
+        },
+        {
+            "first_name": "Евгения",
+            "last_name": "Петрова",
+            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "rating": 4,
+            "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
+            "created": "35 минут назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Илья",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 2,
+            "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
+            "created": "минуту назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Никита",
+            "last_name": "Иванов",
+            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "rating": 5,
+            "text": "Отлично выглядят, хоть и скользковатые...",
+            "created": "только что",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Олег",
+            "last_name": "Николаев",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 1,
+            "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
+            "created": "15 минут назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Николай",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "rating": 2,
+            "text": "",
+            "created": "вчера в 12:39",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg"
+            ]
+        },
+
+
+        {
+            "first_name": "Иван",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 5,
+            "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
+            "created": "1 час назад",
+            "photo_urls": []
+        },
+        {
+            "first_name": "Екатерина",
+            "last_name": "Иванова",
+            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "rating": 3,
+            "text": "Скользские ужасно.",
+            "created": "12 минут назад",
+            "photo_urls": []
+        },
+        {
+            "first_name": "Евгения",
+            "last_name": "Петрова",
+            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "rating": 4,
+            "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
+            "created": "35 минут назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Илья",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 2,
+            "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
+            "created": "минуту назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Никита",
+            "last_name": "Иванов",
+            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "rating": 5,
+            "text": "Отлично выглядят, хоть и скользковатые...",
+            "created": "только что",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Олег",
+            "last_name": "Николаев",
+            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "rating": 1,
+            "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
+            "created": "15 минут назад",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+        {
+            "first_name": "Николай",
+            "last_name": "Петров",
+            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "rating": 2,
+            "text": "",
+            "created": "вчера в 12:39",
+            "photo_urls": [
+                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+            ]
+        },
+    ]
+}
