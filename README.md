@@ -8,6 +8,6 @@
 
 ## Screenshots
 
-![Simulator Screenshot - iPhone 16 - 2025-03-02 at 20 48 45](https://github.com/user-attachments/assets/484f0023-40f1-4e3c-a8bd-31f911e92af0)
+![photo_2025-03-02 21 00 41](https://github.com/user-attachments/assets/fdd11412-01e6-4c74-ae49-192f36de83c5)
+![photo_2025-03-02 21 01 07](https://github.com/user-attachments/assets/b539b8ae-208b-4dc4-b460-96e45571b603)
 
-![Simulator Screenshot - iPhone 16 - 2025-03-02 at 20 48 55](https://github.com/user-attachments/assets/c0526b03-3869-4d82-95fb-381f7275383a)
