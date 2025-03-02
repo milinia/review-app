@@ -49,6 +49,7 @@ private extension ImageGalleryView {
     func setupCollectionView() {
         addSubview(collectionView)
         collectionView.isPagingEnabled = true
+        collectionView.showsHorizontalScrollIndicator = false
         collectionView.register(
             ImageCell.self,
             forCellWithReuseIdentifier: ImageCellConfig.reuseId

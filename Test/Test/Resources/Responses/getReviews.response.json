@@ -4,33 +4,33 @@
         {
             "first_name": "Иван",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 5,
             "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
             "created": "1 час назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Екатерина",
             "last_name": "Иванова",
-            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1665686304312-16e3a16be0ed?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 3,
             "text": "Скользские ужасно.",
             "created": "12 минут назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Евгения",
             "last_name": "Петрова",
-            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1665686304312-16e3a16be0ed?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 4,
             "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
             "created": "35 минут назад",
@@ -39,47 +39,46 @@
         {
             "first_name": "Илья",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 2,
             "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
             "created": "минуту назад",
-            "photo_urls": []
+            "photo_urls": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
         },
         {
             "first_name": "Никита",
             "last_name": "Иванов",
-            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 5,
             "text": "Отлично выглядят, хоть и скользковатые...",
             "created": "только что",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg"
+                "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Олег",
             "last_name": "Николаев",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 1,
             "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
             "created": "15 минут назад",
-            "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
-            ]
+            "photo_urls": []
         },
         {
             "first_name": "Николай",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 2,
             "text": "",
             "created": "вчера в 12:39",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
 
@@ -87,21 +86,21 @@
         {
             "first_name": "Иван",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 5,
             "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
             "created": "1 час назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Екатерина",
             "last_name": "Иванова",
-            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1665686304312-16e3a16be0ed?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 3,
             "text": "Скользские ужасно.",
             "created": "12 минут назад",
@@ -110,63 +109,59 @@
         {
             "first_name": "Евгения",
             "last_name": "Петрова",
-            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1665686304312-16e3a16be0ed?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 4,
             "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
             "created": "35 минут назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Илья",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 2,
             "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
             "created": "минуту назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Никита",
             "last_name": "Иванов",
-            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 5,
             "text": "Отлично выглядят, хоть и скользковатые...",
             "created": "только что",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg"
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Олег",
             "last_name": "Николаев",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 1,
             "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
             "created": "15 минут назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Николай",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 2,
             "text": "",
             "created": "вчера в 12:39",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg"
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
 
@@ -174,7 +169,7 @@
         {
             "first_name": "Иван",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 5,
             "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
             "created": "1 час назад",
@@ -183,7 +178,7 @@
         {
             "first_name": "Екатерина",
             "last_name": "Иванова",
-            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1665686304312-16e3a16be0ed?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 3,
             "text": "Скользские ужасно.",
             "created": "12 минут назад",
@@ -192,68 +187,65 @@
         {
             "first_name": "Евгения",
             "last_name": "Петрова",
-            "avatar_url": "https://cdn.pixabay.com/photo/2025/02/05/20/17/family-9385616_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1665686304312-16e3a16be0ed?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 4,
             "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
             "created": "35 минут назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             ]
         },
         {
             "first_name": "Илья",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 2,
             "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
             "created": "минуту назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Никита",
             "last_name": "Иванов",
-            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 5,
             "text": "Отлично выглядят, хоть и скользковатые...",
             "created": "только что",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Олег",
             "last_name": "Николаев",
-            "avatar_url": "https://cdn.pixabay.com/photo/2016/03/24/09/10/man-1276384_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 1,
             "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
             "created": "15 минут назад",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/08/06/16/01/shoes-2593683_1280.jpg",
-                "https://cdn.pixabay.com/photo/2015/11/06/15/13/shoes-1028790_1280.jpg",
-                "https://cdn.pixabay.com/photo/2017/09/02/20/30/chooka-boots-2708453_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1512675828443-4f454c42253a?q=80&w=2954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
         {
             "first_name": "Николай",
             "last_name": "Петров",
-            "avatar_url": "https://cdn.pixabay.com/photo/2024/01/10/16/22/man-8499961_1280.jpg",
+            "avatar_url": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?q=80&w=3421&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "rating": 2,
             "text": "",
             "created": "вчера в 12:39",
             "photo_urls": [
-                "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
-                "https://cdn.pixabay.com/photo/2016/06/20/21/46/sport-shoes-1470061_1280.jpg"
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             ]
         },
     ]
